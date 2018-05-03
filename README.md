@@ -18,6 +18,6 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.jt9193:richeditor-android:1.2.3'
+    compile 'com.github.jt9193:richeditor-android:1.2.4'
 }
 ```
