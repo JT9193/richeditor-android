@@ -1,11 +1,11 @@
-package jp.wasabeef.sample;
+package com.github.jt9193.sample;
 
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
-import jp.wasabeef.richeditor.RichEditor;
+import com.github.jt9193.richeditor.RichEditor;
 
 public class MainActivity extends AppCompatActivity {
 

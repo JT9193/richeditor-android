@@ -263,7 +263,7 @@
     </LinearLayout>
   </HorizontalScrollView>
 
-  <jp.wasabeef.richeditor.RichEditor
+  <com.github.jt9193.richeditor.RichEditor
     android:id="@+id/editor"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"

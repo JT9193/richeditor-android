@@ -1,4 +1,4 @@
-package jp.wasabeef.sample;
+package com.github.jt9193.sample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

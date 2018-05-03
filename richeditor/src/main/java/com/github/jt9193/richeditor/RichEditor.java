@@ -1,4 +1,4 @@
-package jp.wasabeef.richeditor;
+package com.github.jt9193.richeditor;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
